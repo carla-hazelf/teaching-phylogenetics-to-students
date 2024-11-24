@@ -9,7 +9,6 @@ In this activity, students will explore the evolutionary relationships among rat
 2.	Computer-Based Sequence Alignment: In the second part, students will use a computational tool (Clustal Omega) which aligns actual nucleotide sequences from more ratite species. This tool allows the analysis of much longer and more complex sequences quickly and accurately. From the computer-generated alignment, students will visualise a phylogenetic tree that represents the evolutionary history of the ratites.
 Together, these exercises will give students a deeper appreciation of how genetic data can be used to map the evolutionary paths of species and the benefits of using bioinformatics tools in research. 
 
-The resources to run the workshop.
-- Teacher worksheet (questions with example answers are provided).
-- Ratite strip exercise - print this, ideally in A3, for manual alignment of sequences.
-- Ratite sequences fasta file - to be used online in Clustal Omega.
+- [Teacher worksheet](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/Carla_Teacher_final_update.docx) (questions with example answers are provided).
+- [Ratite strip exercise](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/Ratite_strip_exercise_TO_PRINT_A3.pdf) - print this, ideally in A3, for manual alignment of sequences.
+- [Ratite sequences FASTA file](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/ratite_sequences.fasta.txt) - to be used online in Clustal Omega.
