@@ -8,3 +8,8 @@ In this activity, students will explore the evolutionary relationships among rat
 1.	Manual DNA Sequence Alignment: In the first part, students will complete a hands-on activity to manually align simplified nucleotide sequences from different ratite species. By identifying similarities and differences in the sequences, they will gain an understanding of how sequence alignments work.
 2.	Computer-Based Sequence Alignment: In the second part, students will use a computational tool (Clustal Omega) which aligns actual nucleotide sequences from more ratite species. This tool allows the analysis of much longer and more complex sequences quickly and accurately. From the computer-generated alignment, students will visualise a phylogenetic tree that represents the evolutionary history of the ratites.
 Together, these exercises will give students a deeper appreciation of how genetic data can be used to map the evolutionary paths of species and the benefits of using bioinformatics tools in research. 
+
+The resources to run the workshop.
+- Teacher worksheet (questions with example answers are provided).
+- Ratite strip exercise - print this, ideally in A3, for manual alignment of sequences.
+- Ratite sequences fasta file - to be used online in Clustal Omega.
