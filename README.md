@@ -10,7 +10,12 @@ In this activity, students will explore the evolutionary relationships among rat
 Together, these exercises will give students a deeper appreciation of how genetic data can be used to map the evolutionary paths of species and the benefits of using bioinformatics tools in research. 
 
 
-CLICKING ON EACH LINK WILL DOWNLOAD THE RELEVANT FILE:
+CLICKING ON EACH LINK WILL TAKE YOU TO THE RELEVANT FILE.
+
+To download, click on the download button i.e (red arrow):
+<img width="1552" height="286" alt="image" src="https://github.com/user-attachments/assets/1617c194-2566-47e8-93f8-d9027acb3b4b" />
+
+
 - [Teacher worksheet](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_teacher.pdf) (questions with example answers are provided).
 - [Student worksheet](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_student.pdf)
 - [Powerpoint](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_ppt.pptx) - put in Powerpoint Present mode for best flow.
