@@ -10,10 +10,10 @@ In this activity, students will explore the evolutionary relationships among rat
 Together, these exercises will give students a deeper appreciation of how genetic data can be used to map the evolutionary paths of species and the benefits of using bioinformatics tools in research. 
 
 
-
+CLICKING ON EACH LINK WILL DOWNLOAD THE RELEVANT FILE:
 - [Teacher worksheet](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_teacher.pdf) (questions with example answers are provided).
-- [Student worksheet] (https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_student.pdf)
-- [Powerpoint] (https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_ppt.pptx) - put in Powerpoint Present mode for best flow.
+- [Student worksheet](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_student.pdf)
+- [Powerpoint](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/RatitePhylo_ppt.pptx) - put in Powerpoint Present mode for best flow.
 - [Ratite strip exercise](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/Ratite_strip_exercise_TO_PRINT_A3final.pdf) - print this, ideally in A3, for manual alignment of sequences.
 - [Ratite sequences FASTA file](https://github.com/carla-hazelf/teaching-phylogenetics-to-students/blob/main/ratite_sequences.fasta.txt) - to be used online in Clustal Omega.
 
